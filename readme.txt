@@ -1,5 +1,5 @@
  El volumen de la unidad C es Windows
- El n£mero de serie del volumen es: 9833-1752
+ El numero de serie del volumen es: 9833-1752
 
  Directorio de C:\Users\dherraez\Desktop\JavaProject
 
